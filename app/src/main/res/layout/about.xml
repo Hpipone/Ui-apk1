@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    \
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="435dp"
+        android:layout_height="199dp"
+        android:src="@drawable/aboutbanner"
+        tools:layout_editor_absoluteX="-12dp"
+        tools:layout_editor_absoluteY="-6dp" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="153dp"
+        android:layout_height="46dp"
+        android:fontFamily="@font/dmsans"
+        android:text="About Us"
+        android:textColor="@color/black"
+        android:textFontWeight="700"
+        android:textSize="35dp"
+        tools:layout_editor_absoluteX="33dp"
+        tools:layout_editor_absoluteY="213dp" />
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="249dp"
+        android:layout_height="27dp"
+        android:fontFamily="@font/dmsans"
+        android:text="This Project Was Made By :"
+        android:textColor="@color/black"
+        android:textFontWeight="500"
+        android:textSize="20dp"
+        tools:layout_editor_absoluteX="33dp"
+        tools:layout_editor_absoluteY="288dp" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="286dp"
+        android:layout_height="21dp"
+        android:fontFamily="@font/dmsans"
+        android:text="Ferry (Hardware Builder, Platform Builder)"
+        android:textColor="@color/black"
+        android:textFontWeight="400"
+        android:textSize="15dp"
+        tools:layout_editor_absoluteX="33dp"
+        tools:layout_editor_absoluteY="367dp" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="286dp"
+        android:layout_height="21dp"
+        android:fontFamily="@font/dmsans"
+        android:text="Maher (App Functionality, Platform Builder)"
+        android:textColor="@color/black"
+        android:textFontWeight="400"
+        android:textSize="15dp"
+        tools:layout_editor_absoluteX="33dp"
+        tools:layout_editor_absoluteY="346dp" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="286dp"
+        android:layout_height="21dp"
+        android:fontFamily="@font/dmsans"
+        android:text="Matthew (Donor)"
+        android:textColor="@color/black"
+        android:textFontWeight="400"
+        android:textSize="15dp"
+        tools:layout_editor_absoluteX="33dp"
+        tools:layout_editor_absoluteY="388dp" />
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="286dp"
+        android:layout_height="21dp"
+        android:fontFamily="@font/dmsans"
+        android:text="Alif (Donor)"
+        android:textColor="@color/black"
+        android:textFontWeight="400"
+        android:textSize="15dp"
+        tools:layout_editor_absoluteX="33dp"
+        tools:layout_editor_absoluteY="451dp" />
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="286dp"
+        android:layout_height="21dp"
+        android:fontFamily="@font/dmsans"
+        android:text="Shane (Donor)"
+        android:textColor="@color/black"
+        android:textFontWeight="400"
+        android:textSize="15dp"
+        tools:layout_editor_absoluteX="33dp"
+        tools:layout_editor_absoluteY="472dp" />
+
+    <TextView
+        android:id="@+id/textView7"
+        android:layout_width="286dp"
+        android:layout_height="21dp"
+        android:fontFamily="@font/dmsans"
+        android:text="Erik (Donor)"
+        android:textColor="@color/black"
+        android:textFontWeight="400"
+        android:textSize="15dp"
+        tools:layout_editor_absoluteX="33dp"
+        tools:layout_editor_absoluteY="493dp" />
+
+    <TextView
+        android:id="@+id/textView8"
+        android:layout_width="286dp"
+        android:layout_height="21dp"
+        android:fontFamily="@font/dmsans"
+        android:text="Arkan (Donor)"
+        android:textColor="@color/black"
+        android:textFontWeight="400"
+        android:textSize="15dp"
+        tools:layout_editor_absoluteX="33dp"
+        tools:layout_editor_absoluteY="430dp" />
+
+    <TextView
+        android:id="@+id/textView9"
+        android:layout_width="286dp"
+        android:layout_height="21dp"
+        android:fontFamily="@font/dmsans"
+        android:text="Bergas(Donor)"
+        android:textColor="@color/black"
+        android:textFontWeight="400"
+        android:textSize="15dp"
+        tools:layout_editor_absoluteX="33dp"
+        tools:layout_editor_absoluteY="409dp" />
+
+    <TextView
+        android:id="@+id/textView10"
+        android:layout_width="345dp"
+        android:layout_height="22dp"
+        android:fontFamily="@font/dmsans"
+        android:text="Jibril (UI/UX, App Functionality, Platform Builder)"
+        android:textColor="@color/black"
+        android:textFontWeight="400"
+        android:textSize="15dp"
+        tools:layout_editor_absoluteX="33dp"
+        tools:layout_editor_absoluteY="324dp" />
+
+    <TextView
+        android:id="@+id/textView11"
+        android:layout_width="320dp"
+        android:layout_height="114dp"
+        android:fontFamily="@font/dmsans"
+        android:gravity="center"
+        android:text="Welcome to Smart Home, the innovative app with easy user interface that empowers you to control your home devices directly from your mobile device."
+        android:textColor="@color/black"
+        android:textFontWeight="400"
+        android:textSize="18dp"
+        tools:layout_editor_absoluteX="45dp"
+        tools:layout_editor_absoluteY="554dp" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
