@@ -10,7 +10,26 @@
       "client_info": {
         "mobilesdk_app_id": "1:920024370053:android:63e44ed361637c944b92ec",
         "android_client_info": {
-          "package_name": "com.MFJStudio.smartcontrol"
+          "package_name": "com.mfjstudio.smartcontrol"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbXd0McI7s4kYl_EjhSdTzeJNXSTqPOJw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:920024370053:android:36a54270717b08b24b92ec",
+        "android_client_info": {
+          "package_name": "com.mfjstudio.smartcontrol"
         }
       },
       "oauth_client": [],

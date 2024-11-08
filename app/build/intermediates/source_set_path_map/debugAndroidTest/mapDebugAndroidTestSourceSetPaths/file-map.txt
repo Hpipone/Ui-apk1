@@ -1,0 +1,6 @@
+com.mfjstudio.smartcontrol.test.app-core-1.6.1-0 C:\Users\User\.gradle\caches\transforms-4\0667bb14d96c19ba6e94c7e01ac3da38\transformed\core-1.6.1\res
+com.mfjstudio.smartcontrol.test.app-tracing-1.2.0-1 C:\Users\User\.gradle\caches\transforms-4\c815981f354c2e6415ccf9a60be52ade\transformed\tracing-1.2.0\res
+com.mfjstudio.smartcontrol.test.app-androidTest-2 C:\Users\User\AndroidStudioProjects\jibrilrealmarah\app\build\generated\res\resValues\androidTest\debug
+com.mfjstudio.smartcontrol.test.app-mergeDebugAndroidTestResources-3 C:\Users\User\AndroidStudioProjects\jibrilrealmarah\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.mfjstudio.smartcontrol.test.app-mergeDebugAndroidTestResources-4 C:\Users\User\AndroidStudioProjects\jibrilrealmarah\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.mfjstudio.smartcontrol.test.app-debugAndroidTest-5 C:\Users\User\AndroidStudioProjects\jibrilrealmarah\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

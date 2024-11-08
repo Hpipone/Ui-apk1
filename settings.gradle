@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "key caps"
+rootProject.name = "jibril real marah"
 include ':app'
