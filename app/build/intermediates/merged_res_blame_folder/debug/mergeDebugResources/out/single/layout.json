@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.7\\com.mfjstudio.smartcontrol.app-mergeDebugResources-35:\\layout\\smartlight.xml",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.7\\com.mfjstudio.smartcontrol.app-main-38:\\layout\\smartlight.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.7\\com.mfjstudio.smartcontrol.app-mergeDebugResources-35:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.7\\com.mfjstudio.smartcontrol.app-main-38:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.7\\com.mfjstudio.smartcontrol.app-mergeDebugResources-35:\\layout\\about.xml",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.7\\com.mfjstudio.smartcontrol.app-main-38:\\layout\\about.xml"
+    },
+    {
+        "merged": "com.mfjstudio.smartcontrol.app-mergeDebugResources-35:/layout/about.xml",
+        "source": "com.mfjstudio.smartcontrol.app-main-38:/layout/about.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.7\\com.mfjstudio.smartcontrol.app-mergeDebugResources-35:\\layout\\smartlcokactivity.xml",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.7\\com.mfjstudio.smartcontrol.app-main-38:\\layout\\smartlcokactivity.xml"
+    }
+]

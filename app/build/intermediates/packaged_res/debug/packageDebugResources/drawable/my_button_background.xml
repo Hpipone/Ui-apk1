@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Shadow -->
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="#15000000"/> <!-- Reduced shadow color opacity (15%) -->
+            <corners android:radius="4dp"/> <!-- Rounded corners of 7dp -->
+        </shape>
+    </item>
+    <!-- Button Background -->
+    <item android:top="0dp" android:left="0dp" android:right="0dp" android:bottom="0dp">
+        <shape android:shape="rectangle">
+            <solid android:color="#5D3BF3"/> <!-- Change to purple color (hex code for purple) -->
+            <corners android:radius="7dp"/> <!-- Rounded corners of 7dp -->
+        </shape>
+    </item>
+</layer-list>

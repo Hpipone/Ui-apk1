@@ -1,0 +1,3 @@
+com.mfjstudio.smartcontrol.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme
